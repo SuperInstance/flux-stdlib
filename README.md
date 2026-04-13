@@ -1,5 +1,10 @@
 # FLUX Standard Library
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 Pre-compiled FLUX bytecode programs you can link into your agent.
 
 ## Programs (13)
